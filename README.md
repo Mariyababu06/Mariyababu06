@@ -10,4 +10,4 @@
 ### **GitHub Stats**
 ![Your GitHub Stats](https://leetcode.com/u/X25sJQOCq0/)
 ### **LeetCode Stats**
-[![LeetCode Profile](https://leetcode.com/u/X25sJQOCq0/)
+[![LeetCode Profile](https://leetcode.com/profile/)
