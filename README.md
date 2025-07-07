@@ -1,11 +1,11 @@
 # Hi, I'm Maria Babu 👋
 
-- 🔭 I’m currently working on [Project Name]
-- 🌱 I’m currently learning [Tech Stack]
+- 🔭 I’m currently working on AI Agents
+- 🌱 I’m currently learning Data Science 
 - 👯 I’m looking to collaborate on Open Source
-- 📫 How to reach me: [Your Email/Social Media]
-- 😄 Pronouns: He/Him/She/Her/They/Them
-- ⚡ Fun fact: [Something Interesting]
+- 📫 How to reach me:mariyababuit@gmail.com
+- 😄 Pronouns: He
+- ⚡ Fun fact:
 
 ### **GitHub Stats**
 ![Your GitHub Stats](https://leetcode.com/u/X25sJQOCq0/)
