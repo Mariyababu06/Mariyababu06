@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Maria Babu 👋
 
 - 🔭 I’m currently working on [Project Name]
 - 🌱 I’m currently learning [Tech Stack]
