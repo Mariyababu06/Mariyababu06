@@ -23,9 +23,6 @@ Category	Skills
 Big Data	<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white" /> <img src="https://img.shields.io/badge/Dask-FF7E0D?style=flat&logo=dask&logoColor=white" />
 Databases	<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
 Visualization	<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" /> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" />
-📊 GitHub Stats & Activity
-https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical
-https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical
 
 🚀 Featured Projects
 Project	Description	Tech Stack
