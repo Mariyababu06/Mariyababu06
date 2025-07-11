@@ -1,7 +1,7 @@
-Hi there! 👋 I'm [Your Name], a Data Scientist/AI Engineer/ML Researcher passionate about building intelligent systems, deriving insights from data, and deploying scalable AI solutions.
+Hi there! 👋 I'm Maria Babu, a Data Scientist/AI Engineer/ML Researcher passionate about building intelligent systems, deriving insights from data, and deploying scalable AI solutions.
 
 🔭 Current Focus
-🔍 Research & Development in [NLP/CV/RL/Generative AI]
+🔍 Research & Development in NLP/CV/RL/Generative AI
 
 🚀 Deploying ML models in production using MLOps tools
 
@@ -37,10 +37,10 @@ Project 2	Short description	<img src="https://img.shields.io/badge/TensorFlow-FF
 🎤 Conference Talks
 
 🌐 Connect With Me
-📩 Email: your.email@domain.com
-💼 LinkedIn: Your Profile
-🐦 Twitter: @YourHandle
-🌍 Website: yourwebsite.com
+📩 Email:rubenbabu7993@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/mariya-babu-854331257/
+🐦 Twitter: 
+🌍 Website: https://mariya-babu-portfolios.vercel.app/
 
 🤝 Open to Collaborations
 🔬 Research collabs | 💻 Open-source contributions | 🚀 Freelance projects
