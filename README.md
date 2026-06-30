@@ -1,11 +1,14 @@
-Hi there! 👋 I'm Maria Babu, a Data Scientist/AI Engineer/ML Researcher passionate about building intelligent systems, deriving insights from data, and deploying scalable AI solutions.
+Hi there! 👋 I'm Maria Babu, Turning raw data into clear business decisions through dashboards, SQL, and storytelling.
 
 🔭 Current Focus
-🔍 Research & Development in NLP/CV/RL/Generative AI
+🔍 Building executive dashboards in Tableau & Power BI
 
-🚀 Deploying ML models in production using MLOps tools
-
-🌍 Open-source contributions to AI/ML frameworks
+🚀 Writing complex SQL queries for business reporting
+   A/B testing analysis and statistical significance
+   
+🌍 Data cleaning, transformation & pipeline automation
+   Stakeholder presentations with data-driven narratives
+   Open-source contributions to AI/ML frameworks
 
 🛠️ Technical Skills
 📊 Programming & Data Science
@@ -34,7 +37,7 @@ Project 2	Short description	<img src="https://img.shields.io/badge/TensorFlow-FF
 🎤 Conference Talks
 
 🌐 Connect With Me
-📩 Email:rubenbabu7993@gmail.com
+📩 Email:mariyababuit@gmail.com
 💼 LinkedIn: https://www.linkedin.com/in/mariya-babu-854331257/
 🐦 Twitter: 
 🌍 Website: https://mariya-babu-portfolios.vercel.app/
