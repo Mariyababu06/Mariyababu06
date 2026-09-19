@@ -1,50 +1,74 @@
-Hi there! 👋 I'm Maria Babu, Turning raw data into clear business decisions through dashboards, SQL, and storytelling.
+<h1 align="center">Hi there, I'm Mariya Babu 👋</h1>
+<h3 align="center">Data Analyst | Aspiring Junior Data Scientist</h3>
 
-🔭 Current Focus
-🔍 Building executive dashboards in Tableau & Power BI
+<p align="center">
+Turning raw data into clear business decisions — through SQL, dashboards, and applied machine learning.
+</p>
 
-🚀 Writing complex SQL queries for business reporting
-   A/B testing analysis and statistical significance
-   
-🌍 Data cleaning, transformation & pipeline automation
-   Stakeholder presentations with data-driven narratives
-   Open-source contributions to AI/ML frameworks
+---
 
-🛠️ Technical Skills
-📊 Programming & Data Science
-Category	Skills
-Languages	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" />
-ML/DL	<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
-NLP/CV	<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
-⚙️ MLOps & Deployment
-Category	Skills
-Model Serving	<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-Cloud & DevOps	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" />
-Workflow Tools	<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white" /> <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white" />
-📊 Data Engineering & Analytics
-Category	Skills
-Big Data	<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white" /> <img src="https://img.shields.io/badge/Dask-FF7E0D?style=flat&logo=dask&logoColor=white" />
-Databases	<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-Visualization	<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" /> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" />
+### 🔭 Current Focus
+- 📊 Building customer segmentation & churn models with scikit-learn and CatBoost
+- 🧮 Writing SQL (CTEs, window functions) for business reporting and analysis
+- 📈 Building Power BI/DAX dashboards for stakeholder-ready insights
+- 🚀 Deploying ML models end-to-end (Flask + Docker + cloud hosting)
 
-🚀 Featured Projects
-Project	Description	Tech Stack
-Project 1	Short description	<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-Project 2	Short description	<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-📝 Blog & Publications
-✍️ Medium/Towards Data Science
-📜 arXiv Research Paper
-🎤 Conference Talks
+---
 
-🌐 Connect With Me
-📩 Email:mariyababuit@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/mariya-babu-854331257/
-🐦 Twitter: 
-🌍 Website: https://mariya-babu-portfolios.vercel.app/
+### 🛠️ Technical Skills
 
-🤝 Open to Collaborations
-🔬 Research collabs | 💻 Open-source contributions | 🚀 Freelance projects
+**Languages & Analysis**
 
-⭐ Star my repos if you find them useful!
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
 
-"Turning data into decisions, one model at a time." 🚀
+**Machine Learning**
+
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/CatBoost-FFCC00?style=flat&logoColor=black" />
+<img src="https://img.shields.io/badge/XGBoost-006ACC?style=flat&logoColor=white" />
+
+**BI & Visualization**
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/DAX-217346?style=flat&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
+
+**Deployment**
+
+<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| **Customer Segmentation (RFM Analysis)** | Segmented 5,878 customers from 824K+ transactions using SQL and K-Means; built a Power BI/DAX dashboard and deployed with Docker on Render. | SQL, K-Means, Power BI, Docker |
+| **Student Performance Indicator** | Built a CatBoost regression model (R² = 0.88) to predict student performance; served via Flask and deployed to AWS Elastic Beanstalk with CI/CD. | CatBoost, Flask, AWS, CodePipeline |
+| **Customer Churn Prediction** | Built a predictive model for customer churn using Python and scikit-learn. | Python, scikit-learn |
+
+*(Add your GitHub repo links here — e.g. `[View Project](https://github.com/Mariyababu06/customer-segmentation-using-rfm-analysis)`)*
+
+---
+
+### 🎓 Certifications
+- Data Analysis with Python — IBM (Coursera)
+- Unsupervised Learning, Recommenders, Reinforcement Learning — DeepLearning.AI (Coursera)
+
+---
+
+### 🌐 Connect With Me
+- 📩 Email: mariyababuit@gmail.com
+- 💼 LinkedIn: [mariya-babu-854331257](https://www.linkedin.com/in/mariya-babu-854331257/)
+- 🌍 Portfolio: [mariya-babu-portfolios.vercel.app](https://mariya-babu-portfolios.vercel.app/)
+
+---
+
+### 🤝 Open To
+💼 Data Analyst / Junior Data Scientist roles &nbsp;|&nbsp; 🤝 Freelance & collaborative projects
+
+<p align="center"><i>"Turning data into decisions, one model at a time."</i></p>
