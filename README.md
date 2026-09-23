@@ -51,7 +51,7 @@ Turning raw data into clear business decisions — through SQL, dashboards, and 
 | **Student Performance Indicator** | Built a CatBoost regression model (R² = 0.88) to predict student performance; served via Flask and deployed to AWS Elastic Beanstalk with CI/CD. | CatBoost, Flask, AWS, CodePipeline |
 | **Customer Churn Prediction** | Built a predictive model for customer churn using Python and scikit-learn. | Python, scikit-learn |
 
-*(Add your GitHub repo links here — e.g. `[View Project](https://github.com/Mariyababu06/customer-segmentation-using-rfm-analysis)`)*
+*(Add your GitHub repo links here —  `[https://github.com/Mariyababu06/customer-segmentation-using-rfm-analysis)`)*
 
 ---
 
