@@ -64,7 +64,7 @@ Turning raw data into clear business decisions — through SQL, dashboards, and 
 ### 🌐 Connect With Me
 - 📩 Email: mariyababuit@gmail.com
 - 💼 LinkedIn: [mariya-babu-854331257](https://www.linkedin.com/in/mariya-babu-854331257/)
-- 🌍 Portfolio: [mariya-babu-portfolios.vercel.app](https://mariya-babu-portfolios.vercel.app/)
+- 🌍 Portfolio: [https://mariya-babu-portfolios.lovable.app)
 
 ---
 
